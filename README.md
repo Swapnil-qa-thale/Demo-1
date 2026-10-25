@@ -1,3 +1,3 @@
 # Demo-1
 this is my first repo
-Author- Swapnil Thale
+Author- Swapnil Thale (Banti)
